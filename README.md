@@ -10,7 +10,7 @@ Here are MySQL queries grouped by category, that I used to explore <a href="http
 <li> <a href="https://github.com/svetkaa-yo/MySQL/blob/master/Window%20Functions.sql"> Window Functions</a> </li>
 </ul>
 
-You can find Database Diagram and Description on <a href="https://sqltest.online/en/"> the SQLtest Website </a>
+You can find Database Diagram and Description on the<a href="https://sqltest.online/en/"> SQLtest Website </a>
 or here:
 
 <ul dir="auto">
